@@ -7,7 +7,7 @@ This simple API also has the configuraion for supporting ES6 with babel and bund
 
 - Get all students
 - Add a new student
-- Upload an image
+- Upload an image using fastify-multipart 
 
 ## Endpoints
 
