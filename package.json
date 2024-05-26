@@ -16,6 +16,7 @@
   "dependencies": {
     "@babel/cli": "^7.24.6",
     "fastify": "^4.27.0",
+    "fastify-multipart": "^5.4.0",
     "util": "^0.12.5"
   },
   "devDependencies": {
